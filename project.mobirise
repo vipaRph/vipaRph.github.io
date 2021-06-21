@@ -96,7 +96,7 @@
     "screenshot": "screenshot.png",
     "modified": "2020-10-30T20:58:33.483Z",
     "mbrsiteDomain": "oxephilippines",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
